@@ -1,5 +1,5 @@
 NodeMCU DEVKIT V1.0
-==============
+=============
 
 A development kit for NodeMCU firmware.
 
@@ -25,7 +25,7 @@ When our firmware download tool released, it will flash firmware automatically a
 
 ## Pin map
 
-![PIN MAP](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
+
 
 It is designed by Altium Designer, and fully open–source. Now everyone can make their own NODEMCU.
 
